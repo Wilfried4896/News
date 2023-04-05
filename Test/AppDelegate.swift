@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  Test
-//
-//  Created by Вилфриэд Оди on 21.03.2023.
-//
 
 import UIKit
 
